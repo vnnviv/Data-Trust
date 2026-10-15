@@ -1,7 +1,4 @@
 # Preregistration
-
-Status: **NOT LOCKED.** Lock before looking at any outcome. When locked, record date and commit hash here: [date] [hash].
-
 ## Estimands
 | ID | Quantity |
 |---|---|
@@ -22,8 +19,3 @@ Status: **NOT LOCKED.** Lock before looking at any outcome. When locked, record 
 - Exclusions: remakes, early surrenders under [X] minutes, AFK games. Patch transition windows dropped.
 - Specification curve choices (only these): tier, minimum games per pair, rating method, [one more].
 - Confirmatory split: develop on patch k, lock code, test on patch k+1.
-
-## Decision log
-| Date | Decision | Reason |
-|---|---|---|
-| | | |
