@@ -1,10 +1,4 @@
-# DataJam Project Proposal
-
-**School Name & Team Number:** Pasadena City College, Team [#]
-
 **Project Title:** Can You Trust "Best"? Three Tests for Strategy Rankings
-
-**Team Members:** [Name, email] | [Name, email] | [Name, email]
 
 ## Problem
 How much can players and coaches trust a "best champion" ranking in League of Legends, given that different ranking methods can disagree and a game patch can change the answer?
