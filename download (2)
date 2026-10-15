@@ -1,0 +1,12 @@
+# Raw and derived data stay local (Riot API terms; player privacy)
+data/*
+!data/.gitkeep
+*.csv
+*.db
+*.sqlite
+
+# Secrets and environments
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
