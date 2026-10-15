@@ -28,18 +28,6 @@ Cut or deferred: gradient boosting, grouped-split ML, dispersion-decay, equilibr
 - Player IDs anonymized at ingestion. Raw data is never committed.
 - Fallback ladder: any-opposing-champion matchups, then Dota 2 via OpenDota, then Part A only.
 
-## Structure
-```
-datajam-ranking-trust/
-  README.md
-  PROPOSAL.md           one-page proposal (guidebook template)
-  PREREGISTRATION.md    estimands, hypotheses, fixed choices
-  docs/LOG.md           iteration log, data challenges, open items
-  src/                  collection, simulation, rankings, analysis
-  data/                 local only (gitignored)
-  results/              figures and tables
-  requirements.txt
-```
 
 ## Tools
 Python 3.12, pandas, numpy, scipy, statsmodels, scikit-learn, matplotlib. SQLite for storage. GitHub for version control. Poster and slides in Google Slides or PowerPoint, exported to PDF.
